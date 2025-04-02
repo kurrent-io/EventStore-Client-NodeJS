@@ -15,7 +15,7 @@ Development is done on the `master` branch. We attempt to do our best to ensure 
    ```
 2. Install all necessary dependencies:
    ```bash
-   npm install
+   yarn install
    ```
 3. Build the project for the first time:
    ```bash
